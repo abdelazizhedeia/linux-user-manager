@@ -27,5 +27,5 @@ A simple Linux system administration tool written in Python for managing users a
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/linux-user-manager.git
+git clone https://github.com/abdelazizhedeia/linux-user-manager
 cd linux-user-manager/src
